@@ -14,7 +14,7 @@ This project showcases my skills and projects using HTML, CSS, JavaScript, and B
 
 ## Demo
 
-You can check out the live demo of the portfolio site [here](#your-live-demo-url).
+You can check out the live demo of the portfolio site [here](#down-rightnow).
 
 ## Features
 
@@ -35,5 +35,5 @@ You can check out the live demo of the portfolio site [here](#your-live-demo-url
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/Omnamdeo912/Prof_portfolio.git
 
