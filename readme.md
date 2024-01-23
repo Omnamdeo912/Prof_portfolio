@@ -14,7 +14,7 @@ This project showcases my skills and projects using HTML, CSS, JavaScript, and B
 
 ## Demo
 
-You can check out the live demo of the portfolio site [here](#down-rightnow).
+You can check out the live demo of the portfolio site [here](https://sample-portfolio-five-sepia.vercel.app/).
 
 ## Features
 
